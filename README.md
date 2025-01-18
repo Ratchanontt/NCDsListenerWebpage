@@ -1,16 +1,13 @@
-# Web page for NCDs Listener Project :star:
-NCDs Listener: Social Listening Web Application for Non-Communicable Disease (NCDs) Patients
+# :man_student: Web page for NCDs Listener Project :man_technologist:
 
----
-:point_right: This page show about my project, Herbarium exhibition in metaverse.
+:point_right: This page show about my project, NCDs Listener: Social Listening Web Application for Non-Communicable Disease (NCDs) Patients.
 
 ## What you will see in my page ? [Click Me! to visit](https://sitthatkaja.github.io/HerbariumWebpage/)
-- Developer of Herbarium exhibition in metaverse.
+- Developer of NCDs Listener.
 - Main content
-- What you will see in metaverse ?
 - Abstract
 - Project poster
 - Reward
 ---
 
-:point_right: We hope that the offerings will not disappoint you. :revolving_hearts:
+:point_right: We hope our offerings meet your expectations and provide you with satisfaction. :pray: :pray: :pray:
