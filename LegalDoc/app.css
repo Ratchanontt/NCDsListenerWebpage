@@ -1,0 +1,74 @@
+.CodeMirror {
+    font-size: .8em;
+    height: auto;
+}
+
+.CodeMirror-scroll {
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+#header_img {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+/* PDF iframe & Table of Content */
+.pdf {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background-color: #eee;
+    color: #eee;
+
+}
+
+.collapsible {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.active,
+.collapsible:hover {
+    background-color: #ccc;
+}
+
+.collapsible:after {
+    content: "\02795"; /* + */
+    font-size: 13px;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2796"; /* - */
+}
+
+#toc {
+    padding: 0 18px;
+    display: none;
+    background-color: #f1f1f1;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .photo {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .pic::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
