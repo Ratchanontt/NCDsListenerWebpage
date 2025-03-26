@@ -13,7 +13,7 @@
 - Activities
 - Rewards
 
-## You can see our code for developing NCDs Listener [Click Me! to GitHub](https://github.com/MOOwuttichai/NCDs_Listener)
+## You can see our code for developing NCDs Listener [Click Me! to GitHub](https://huggingface.co/wuttichaimoo/Full_APP_NCD_v2)
 
 :point_right: We hope our offerings meet your expectations and satisfy you. :pray: :pray: :pray:
 
